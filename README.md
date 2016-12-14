@@ -3,7 +3,7 @@
 Move half the distance from the cursor to the edge of the line.
 
 
-![screenshot](./docs/xxx.gif)
+![screenshot](https://github.com/sinogono/move-half-distance-to-edge-of-line/blob/master/docs/xxx.gif)
 
 
 ## Usage
