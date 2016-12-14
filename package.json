@@ -1,18 +1,17 @@
 {
   "name": "move-half-distance-to-edge-of-line",
   "main": "./lib/move-half-distance-to-edge-of-line",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "Move half the distance from the cursor to the edge of the line.",
   "keywords": [
-      "atom",
-      "coffeescript",
-      "cson"
+    "atom",
+    "coffeescript",
+    "cson"
   ],
   "repository": "https://github.com/sinogono/move-half-distance-to-edge-of-line",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
   },
-  "dependencies": {
-  }
+  "dependencies": {}
 }
