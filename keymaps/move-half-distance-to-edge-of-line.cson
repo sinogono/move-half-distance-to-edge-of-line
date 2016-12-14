@@ -1,0 +1,5 @@
+'atom-text-editor':
+  'ctrl-alt-shift-right': 'move-half-distance-to-edge-of-line:forward-select'
+  'ctrl-alt-right': 'move-half-distance-to-edge-of-line:forward-move'
+  'ctrl-alt-shift-left': 'move-half-distance-to-edge-of-line:backward-select'
+  'ctrl-alt-left': 'move-half-distance-to-edge-of-line:backward-move'
